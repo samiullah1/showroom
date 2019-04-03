@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.zone{
+	 cursor:pointer;
+    color:#fff;
+    font-size:2em;
+    border-radius:4px;
+    border:1px solid #bbb;
+    transition: all 0.3s linear;
+}
+.foot{
+	
+	background: #0097D6;
+	
+
+}
+footer{
+	height: 100px;
+	background: #0097D6;
+	text-align: center;
+	margin-top: 40px;
+	color: #fff;
+	position:sticky;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	
+}

@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+@media only screen and (max-width:600px){
+	.main-nav{
+		font-size: 0em;
+		padding: 0;
+		
+		
+	}}
+	.main-nav{
+		list-style: none;
+		display: flex;
+		font-size: 1.3em;
+		margin: 0;
+		
+		
+	}
+	li{
+		padding: 20px;
+		
+	}
+	a{
+		
+		color: aliceblue;
+		text-decoration: none;
+}
+.White{
+	background: #0097D6;
+	
+}
+.brandLogo {
+	height: 90%;
+	margin: 10px;
+	border: 1px solid #0097D6;
+
+	
+}
+.brandLogo img{
+	height: 100%;
+}
+
+
+.Topnav{
+	height: 180px;
+}
+.Topnav div{
+	display: inline-block;
+}
+.container{
+	max-width: 1400px;
+	margin: 0 auto;
+}	
+	
+.main-nav a{
+    color: #fff;
+	line-height: 20px;
+	padding: 12px 15px 11px;
+	font-size: 18px;
+	border-radius: 5px;
+}
+.main-nav a:hover{
+	background: rgba(255,255,255,255);
+	color: #0097D6;
+	box-shadow: 1px 1px 1px #ccc;
+	text-shadow: 1px 1px 1px #ccc;
+}
+
+
+
